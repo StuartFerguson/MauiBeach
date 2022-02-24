@@ -15,7 +15,7 @@ internal class AboutViewModel
 
     public string AppVersion => $"Version: {AppInfo.VersionString}{Environment.NewLine}Copyright © 2021 Taranis Software";
 
-    public string Description => "A playground for experiments with .Net MAUI. All code is available on GitHub and development is documented on my blog 'Sailing the Sharp Sea'.";
+    public string Description => "A playground for my experiments with .Net MAUI. All code is available on GitHub and development is documented on my blog 'Sailing the Sharp Sea'.";
 
     public string Platform
     {
